@@ -1,0 +1,20 @@
+p{
+    text-align: justify;
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+figcaption{
+    font-size: 20px;
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+    background-image: url(/images/pexels-photo-129731.jpeg);
+    /*background-size: cover;*/
+    
+}
